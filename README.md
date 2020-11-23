@@ -2,7 +2,7 @@
 ### I am Shahane Bakunts
 🌱 I’m currently learning UX/UI Design in UC Berkeley Bootcamp and I am loving it 💜.
 
-***To learn more about me visit my **[website.](https://shahane-bakunts.github.io/Portfolio/)*****
+***To learn more about me visit my **[website.](https://github.com/shahane-bakunts/Portfolio.git/)*****
 <!--
 **shahane-bakunts/shahane-bakunts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
